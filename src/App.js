@@ -1,7 +1,9 @@
+import Home from "./Home/Home";
+
 function App() {
   return (
     <div>
-      Hello medify...
+      <Home />
     </div>
   );
 }
