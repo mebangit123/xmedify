@@ -1,9 +1,10 @@
 import Home from "./Home/Home";
+import Search from "./Search/Search";
 
 function App() {
   return (
     <div>
-      <Home />
+      <Search />
     </div>
   );
 }
